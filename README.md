@@ -1,4 +1,4 @@
-# YouTube Music Player with Firebase
+# Music Player
 
 A web application that allows users to:
 - Search for YouTube videos
